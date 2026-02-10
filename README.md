@@ -1,6 +1,3 @@
-# Opportunities-Portal
-A  modern, elegant web portal showcasing various opportunities 
-
 
 
 # Opportunities Portal
@@ -126,16 +123,10 @@ Through this project, I practiced:
 
 ## 🔄 Version History
 
-### Version 3.0 (Current - Nude Palette)
+### Version 2.0 (Current - Nude Palette)
 - Changed to elegant nude color scheme
 - Updated to Playfair Display font
 - Maintained 8 opportunity cards
-
-### Version 2.0
-- Added 2 new opportunity cards (Creative Grants, Mentorship)
-- Changed to teal and coral color scheme
-- Updated to Poppins font
-- Increased spacing throughout
 
 ### Version 1.0
 - Initial design with 6 opportunity cards
@@ -145,24 +136,7 @@ Through this project, I practiced:
 ## 🎨 Color Evolution
 
 **Version 1** → Vibrant purple and blue gradients  
-**Version 2** → Energetic teal and coral  
-**Version 3** → Sophisticated nude palette (Current)
-
-## 🖼️ Screenshots
-
-*Note: Open index.html in a browser to view the live design*
-
-## 🤝 Contributing
-
-This is a student project created for learning purposes. Feedback and suggestions are welcome!
-
-## 📧 Contact
-
-For questions about this project, please reach out to your instructor or course coordinator.
-
-## 📄 License
-
-This project is created for educational purposes as part of a web development course.
+**Version 2** → Sophisticated nude palette (Current)
 
 ---
 
@@ -172,13 +146,3 @@ This project is created for educational purposes as part of a web development co
 
 ---
 
-## 💡 Tips for Future Improvements
-
-If you want to enhance this project further, consider:
-- Adding JavaScript interactivity (form validation, filtering)
-- Implementing a dark mode toggle
-- Creating individual opportunity detail pages
-- Adding smooth scroll navigation
-- Integrating a backend for real data
-- Adding image galleries for each opportunity
-- Creating user authentication and profiles
